@@ -23,4 +23,3 @@ Aqui estão minhas receitas favoritas.
 - [Strogonoff de Frango](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Strogonoff.md)
 - [Tortilhas Mexicanas](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Tortilhas-Mexicanas.md)
 - [Trufa de Chocolate](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Trufa-de-Chocolate.md)
-
