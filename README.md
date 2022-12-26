@@ -8,6 +8,7 @@ Aqui estão minhas receitas favoritas.
 - [Caipirinha](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Caipirinha.md)
 - [Camarão na Moranga](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Camarao-na-Moranga.md)
 - [Churros](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Churros.md)
+- [Churros de Batata e Queijo](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Churros-de-Batata-e-Queijo.md)
 - [Cream Cheese](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Cream-Cheese.md)
 - [Crepe Francês](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Crepe-Frances.md)
 - [Crepe Suíço](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Crepe-Suico.md)
