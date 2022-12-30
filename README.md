@@ -4,6 +4,8 @@ Olá! Bem vindo ao meu livro de receitas :cookie:
 
 Aqui estão minhas receitas favoritas.
 
+- [Arroz à Grega](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Arroz-a-Grega.md)
+- [Arroz Primavera](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Arroz-Primavera.md)
 - [Brigadeirão](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Brigadeirao.md)
 - [Caipirinha](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Caipirinha.md)
 - [Camarão na Moranga](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Camarao-na-Moranga.md)
@@ -13,6 +15,7 @@ Aqui estão minhas receitas favoritas.
 - [Crepe Francês](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Crepe-Frances.md)
 - [Crepe Suíço](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Crepe-Suico.md)
 - [Dry Martini](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Dry-Martini.md)
+- [Farofa Temperada](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Farofa-Temperada.md)
 - [Flat White](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Flat-White.md)
 - [Frango ao Molho Béchamel](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Frango-ao-Molho-Bechamel.md)
 - [Guioza](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Guioza.md)
@@ -23,6 +26,7 @@ Aqui estão minhas receitas favoritas.
 - [Pão de Frigideira](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Pao-de-Frigideira.md)
 - [Pizza Tradicional](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Pizza-Tradicional.md)
 - [Strogonoff de Frango](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Strogonoff.md)
+- [Suflê de Arroz](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Sufle-de-Arroz.md)
 - [Sunomono](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Sunomono.md)
 - [Tortilhas Mexicanas](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Tortilhas-Mexicanas.md)
 - [Trufa de Chocolate](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Trufa-de-Chocolate.md)
