@@ -1,9 +1,21 @@
 # Guioza
 
+## Massa
+
 #### Ingredientes ####
 
 - 2 1/2 xícaras de farinha de trigo
 - 1 xícara de água
+
+#### Modo de Preparo ####
+
+- Em um recipiente, misturar a farinha e a água. Sovar bastante até a massa ficar lisinha;
+- Com o auxílio de um rolo, abrir pequenos discos de massa;
+
+## Recheio
+
+#### Ingredientes ####
+
 - 1 colher de chá de óleo
 - 1/2 cebola picada
 - 1 colher de chá de gengibre picado
@@ -14,6 +26,17 @@
 - Sal
 - Pimenta do reino
 - 1/4 xícara de cebolinha picada
+
+#### Modo de Preparo ####
+
+- Em uma frigideira quente, dispor o óleo e refogar a cebola. Juntar o gengibre e a cenoura, refogar bem.
+- Adicionar o repolho e refogar;
+- Adicionar o óleo de gergelim e o molho de soja. E por último o sal, pimenta do reino e cebolinha picada. Reservar;
+
+## Montagem do Guioza
+
+#### Ingredientes ####
+
 - 1 colher de sopa de maisena
 - 2 colheres de sopa de água
 - 2 colheres de sopa de manteiga
@@ -21,10 +44,7 @@
 
 #### Modo de Preparo ####
 
-- Em uma frigideira quente, dispor o óleo e refogar a cebola. Juntar o gengibre e a cenoura, refogar bem. Em seguida, adicionar o repolho e refogar;
-- Adicionar o óleo de gergelim e o molho de soja. E por último o sal, pimenta do reino e cebolinha picada. Reservar;
-- Em um recipiente, misturar a farinha e a água. Sovar bastante até a massa ficar lisinha;
-- Com o auxílio de um rolo, abrir pequenos discos de massa e rechear com uma colher de sopa do recheio;
+- Adicionar uma colher de sopa do recheio na massa;
 - Dobrar a massinha ao meio em forma de meia lua e começar fechando pelo centro e terminar nas bordas. Colocar em uma forma enfarinhada e reservar;
 - Em um recipiente, misturar a água e a maisena;
 - Aquecer uma frigideira antiaderente com a manteiga, dispor os guiozas e deixar fritar bem até que a parte de baixo esteja dourada;
