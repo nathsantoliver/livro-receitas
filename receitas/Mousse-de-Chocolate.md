@@ -8,7 +8,7 @@
 
 #### Modo de Preparo
 
-- Colocar o Creme de Leite e o Leite Condensado no Liquidificador;
+- Colocar o Creme de Leite e o Leite Condensado no Processador de Alimentos com o Disco Emulsificador;
 - Bater;
 - Acrescentar o chocolate ou cacau aos poucos;
 - Despejar em uma tijela;
