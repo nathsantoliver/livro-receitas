@@ -6,6 +6,7 @@ Aqui estão minhas receitas favoritas.
 
 - [Arroz à Grega](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Arroz-a-Grega.md)
 - [Arroz Primavera](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Arroz-Primavera.md)
+- [Bolinho de Arroz](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Bolinho-de-Arroz.md)
 - [Brigadeirão](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Brigadeirao.md)
 - [Caipirinha](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Caipirinha.md)
 - [Calda de Chocolate](https://github.com/SantOliver92/Livro-Receitas/blob/master/receitas/Calda-de-Chocolate.md)
