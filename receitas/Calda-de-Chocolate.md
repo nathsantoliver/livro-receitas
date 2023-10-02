@@ -9,7 +9,7 @@
 
 #### Modo de Preparo
 
-- Colocar todos os ingredientes em ua panela e levar ao fogo;
+- Colocar todos os ingredientes em uma panela e levar ao fogo;
 - Mexer bem, em fogo baixo, até levantar fervura;
 - Após levantar fervura, esperar 3 minuos para que ela engrosse;
 - Desligar e reservar até esfriar;
